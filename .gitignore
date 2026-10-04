@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated exports
+*_20*.json
+*_20*.csv
+*_20*.txt
+images_*/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
